@@ -1,0 +1,14 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.box h1 {
+    font-size: 30px;
+}
+.box img {
+    border-radius: 10%;
+    object-fit: cover;
+}
