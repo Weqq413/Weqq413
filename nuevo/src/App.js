@@ -26,3 +26,5 @@ function App(){
 }
 
 export default App;
+
+//https://colors.muz.li/palette/ffff00/aa00ff/7700b3/33ff00/24b300#google_vignette
