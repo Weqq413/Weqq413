@@ -8,9 +8,6 @@ function Dog() {
     const [dog, setDog] = useState("/vercel.svg")
 
     const url = "https://dog.ceo/api/breeds/image/random"
-    
-
-    
     useEffect(() => {
         fetch(url)
             .then(res => res.json())
