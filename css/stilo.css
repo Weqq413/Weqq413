@@ -1,0 +1,33 @@
+body
+{
+    font-family: tahoma;
+    background-color: black;
+}
+*  /*todo el documento*/
+*{  margin: 25px;
+
+}
+
+h1
+{   padding: 10px ;
+    border-radius: 15px;
+    border-style: solid;  /*dotted   borde punteado*/
+    color: blueviolet;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+p
+{
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: darkblue;
+    text-align: justify;  /*justifica los espacios*/
+}
+
+img
+{
+    width: 30% ;
+}
